@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LevanKopaliani/Foodspin/static/css/main.7e1f091b.css",
-    "main.js": "/LevanKopaliani/Foodspin/static/js/main.64aa12ba.js",
-    "static/media/5.png": "/LevanKopaliani/Foodspin/static/media/5.a74d33312e4cdedd5a68.png",
-    "static/media/4.png": "/LevanKopaliani/Foodspin/static/media/4.7cc32692a4b0c6279578.png",
-    "static/media/3.webp": "/LevanKopaliani/Foodspin/static/media/3.bc27933e46e9df232461.webp",
-    "static/media/1.webp": "/LevanKopaliani/Foodspin/static/media/1.d95bab2b799ebd6e4215.webp",
-    "static/media/dish3.png": "/LevanKopaliani/Foodspin/static/media/dish3.7906f101bdd9641d0eb4.png",
-    "static/media/dish1.png": "/LevanKopaliani/Foodspin/static/media/dish1.fcfc55b9eecc97392d7a.png",
-    "static/media/dish4.png": "/LevanKopaliani/Foodspin/static/media/dish4.6bc3b97799922c11a265.png",
-    "static/media/dish2.png": "/LevanKopaliani/Foodspin/static/media/dish2.d3f5950149da31b71abc.png",
-    "static/media/dish5.png": "/LevanKopaliani/Foodspin/static/media/dish5.d298dfc469116229ca94.png",
-    "static/media/2.webp": "/LevanKopaliani/Foodspin/static/media/2.a45d007653bc738597a8.webp",
-    "index.html": "/LevanKopaliani/Foodspin/index.html",
-    "main.7e1f091b.css.map": "/LevanKopaliani/Foodspin/static/css/main.7e1f091b.css.map",
-    "main.64aa12ba.js.map": "/LevanKopaliani/Foodspin/static/js/main.64aa12ba.js.map"
+    "main.css": "/Foodspin/static/css/main.7e1f091b.css",
+    "main.js": "/Foodspin/static/js/main.37c9c247.js",
+    "static/media/5.png": "/Foodspin/static/media/5.a74d33312e4cdedd5a68.png",
+    "static/media/4.png": "/Foodspin/static/media/4.7cc32692a4b0c6279578.png",
+    "static/media/3.webp": "/Foodspin/static/media/3.bc27933e46e9df232461.webp",
+    "static/media/1.webp": "/Foodspin/static/media/1.d95bab2b799ebd6e4215.webp",
+    "static/media/dish3.png": "/Foodspin/static/media/dish3.7906f101bdd9641d0eb4.png",
+    "static/media/dish1.png": "/Foodspin/static/media/dish1.fcfc55b9eecc97392d7a.png",
+    "static/media/dish4.png": "/Foodspin/static/media/dish4.6bc3b97799922c11a265.png",
+    "static/media/dish2.png": "/Foodspin/static/media/dish2.d3f5950149da31b71abc.png",
+    "static/media/dish5.png": "/Foodspin/static/media/dish5.d298dfc469116229ca94.png",
+    "static/media/2.webp": "/Foodspin/static/media/2.a45d007653bc738597a8.webp",
+    "index.html": "/Foodspin/index.html",
+    "main.7e1f091b.css.map": "/Foodspin/static/css/main.7e1f091b.css.map",
+    "main.37c9c247.js.map": "/Foodspin/static/js/main.37c9c247.js.map"
   },
   "entrypoints": [
     "static/css/main.7e1f091b.css",
-    "static/js/main.64aa12ba.js"
+    "static/js/main.37c9c247.js"
   ]
 }

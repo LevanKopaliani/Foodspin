@@ -3,6 +3,7 @@
   width: 100%;
   margin-top: 50px;
   width: 1080px;
+  z-index: 1;
 }
 .nav-menu {
   display: flex;
@@ -16,10 +17,12 @@
   display: inline;
   list-style: none;
   margin-left: 60px;
+  cursor: pointer;
 }
 .nav-menu__logo {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 .cart {
   display: flex;

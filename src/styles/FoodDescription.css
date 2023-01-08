@@ -1,0 +1,48 @@
+.descriptions {
+  width: 340px;
+  height: 340px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.description__img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  transition: all 0.5s ease-out;
+  transform-origin: center;
+  animation-name: grow;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+.descriptions {
+  position: absolute;
+}
+.descriptions__item {
+  max-width: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  display: none;
+}
+.descriptions__item_visible {
+  opacity: 1;
+  display: flex;
+}
+
+@keyframes grow {
+  from {
+    width: 60px;
+    height: 60px;
+
+    transform: rotate(0deg);
+  }
+  to {
+    width: 340px;
+    height: 340px;
+    transform: rotate(360deg);
+  }
+}
